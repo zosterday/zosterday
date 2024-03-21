@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zach.
 
-I am a **.Net developer** with a passion for **game development**. My desire to transform ideas into interactive experiences fuels my continuous learning journey. I’m committed to expanding my skillset, enabling me to craft exciting software that bring joy and entertainment to others!
+I am a **.NET developer** with a passion for **game development**. My desire to transform ideas into interactive experiences fuels my continuous learning journey. I’m committed to expanding my skillset, enabling me to craft exciting software that bring joy and entertainment to others!
 
 ## Current Projects
 
