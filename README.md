@@ -25,9 +25,3 @@ Here are some of the past projects I've made:
 7. **[Virus Simulation](https://github.com/zosterday/virus-simulation)** - A 2d Unity simulation that takes an infection chance on contact and a chance to heal after 10 seconds of being infected and simulates the spread of a virus!
 
 Feel free to explore these projects and see what I've been up to! 🚀
-
-## What Drives Me:
-
-- 🚀 **Game Development**: I love crafting immersive gameplay, designing captivating visuals, and solving the unique challenges that come with building games.
-- 🌟 **Clean Code Advocate**: I believe that well-organized, efficient code is the foundation of any successful project. I'm constantly honing my skills to write code that's not just functional but also elegant.
-- 📚 **Lifelong Learner**: The tech world evolves rapidly, and I'm committed to staying ahead. Whether it's learning a new language, exploring design patterns, or diving into performance optimization, I'm always hungry for knowledge.
